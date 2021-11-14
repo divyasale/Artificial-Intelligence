@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-I am Facinated about machine learning
+I am Facinated about Artificial Intelligence
