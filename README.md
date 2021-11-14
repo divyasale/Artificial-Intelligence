@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-I am Facinated about Artificial Intelligence
+I am Fascinated about Artificial Intelligence
